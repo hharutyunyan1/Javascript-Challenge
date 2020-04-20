@@ -1,3 +1,3 @@
 # Javascript-Challenge
 
-![](images/UFO%Sightings.jpg)
+![](images/UFO%20Sightings.jpg)
