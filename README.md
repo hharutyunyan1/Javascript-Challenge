@@ -1,2 +1,2 @@
 # Javascript-Challenge
-javascript assignment
+
